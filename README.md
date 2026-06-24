@@ -43,7 +43,7 @@ Number of Orders	15
 6. Interactive slicers allow dynamic analysis by product, region, and category.
    
 # Dashboard Preview
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/SaleAnalysisofproducts_excel.png)
 
 
 # Skills Demonstrated
