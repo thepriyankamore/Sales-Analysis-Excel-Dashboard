@@ -1,0 +1,16 @@
+﻿Order_ID,Order_Date,Region,Category,Product,Sales,Profit,Customer_Name
+1001,05-01-24,West,Technology,Laptop,55000,8000,Amit Sharma
+1002,07-01-24,North,Furniture,Chair,4000,500,Neha Verma
+1003,10-01-24,South,Office Supplies,Pen Set,500,150,Rahul Nair
+1004,12-01-24,East,Technology,Mobile,20000,3000,Priya Singh
+1005,15-01-24,West,Furniture,Table,7000,1000,Karan Patel
+1006,18-01-24,North,Technology,Tablet,15000,2500,Anjali Mehta
+1007,20-01-24,South,Office Supplies,Notebook,1200,300,Vikram Rao
+1008,22-01-24,East,Furniture,Sofa,25000,4000,Sneha Iyer
+1009,25-01-24,West,Technology,Headphones,3000,700,Rohit Gupta
+1010,28-01-24,North,Office Supplies,Printer,12000,2000,Meera Joshi
+1011,02-02-24,South,Technology,Laptop,60000,9000,Arjun Das
+1012,05-02-24,East,Furniture,Chair,4500,600,Kavita Shah
+1013,08-02-24,West,Office Supplies,Pen Set,700,200,Deepak Yadav
+1014,10-02-24,North,Technology,Mobile,22000,3500,Pooja Kulkarni
+1015,14-02-24,South,Furniture,Table,8000,1200,Manoj Kumar
